@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292006194280",
+    "project_id": "imagetotext-185c4",
+    "storage_bucket": "imagetotext-185c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292006194280:android:16554b9c658b3e7ab81fdd",
+        "android_client_info": {
+          "package_name": "com.example.text_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292006194280-cah4re22oh69k0cjj9976phbr7ce40ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH84JAvt2L5VuokUBQGZVZYbz5BdR5nbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292006194280-cah4re22oh69k0cjj9976phbr7ce40ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
